@@ -1,0 +1,38 @@
+ .modal-header, h4, .close {
+      background-color:#3bbbec;
+      color:#1b7d1a !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+  .md{
+  	margin-top: 10px;
+  }
+
+ .side-panel{
+ 	max-height: 100%;
+ }
+ .nav{
+ 	
+ 	color: #04e544 !important;
+
+ }
+  
+
+ .navbar a:hover{
+ 	color: #fa7f08!important;
+ 	background-color: #3bbbec !important
+ }
+ .navbar-default{
+ 	background-color: #3bbbec !important;
+ 	color: #fa7f08 !important;
+ }
+ body{
+ 	overflow-x: hidden;
+ }
+ .mod{
+    background-color: #1b7d1a !important;
+ }
+
